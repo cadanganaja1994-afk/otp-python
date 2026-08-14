@@ -1,0 +1,10 @@
+toml
+   name = "otp-bot-instan"
+   main = "src/main.py"
+   compatibility_date = "2024-01-01"
+
+   [python]
+
+   [[kv_namespaces]]
+   binding = "OTP_DATA"
+   id = "isinantilewat_dashboard"
